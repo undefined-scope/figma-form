@@ -49,7 +49,7 @@
 
 ## Доступность ♿️ 
 
-- [Контраст текста и элементов](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Understanding_WCAG/Perceivable/Color_contrast) — не ниже WCAG AA: 4.5:1 для обычного текста, 3:1 для крупного текста и графических элементов интерфейса (иконки, рамки полей).
+- [Контраст текста и элементов](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Understanding_WCAG/Perceivable/Color_contrast) — не ниже WCAG AA: 4.5:1 для обычного текста, 3:1 для крупного текста и графических элементов интерфейса (иконки, рамки полей). [Проверка контрастности](https://colourpicker.app/ru/tools/contrast-checker/)
 - Информация никогда не передаётся только цветом (пример — ошибка должна содержать текст, а не только цвет)
 - Достаточный размер кликабельной области
 
